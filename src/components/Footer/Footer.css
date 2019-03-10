@@ -1,0 +1,11 @@
+.Footer {
+    height: 56px;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    background-color: rgb(74, 120, 190);
+    align-items: center;
+    box-sizing: border-box;
+    z-index: 90;
+    text-align: center;
+}

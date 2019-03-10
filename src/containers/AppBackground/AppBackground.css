@@ -1,0 +1,12 @@
+.AppBackground {
+    height: 100%;
+    width: 100%;
+    z-index: 100;
+    top: 0;
+}
+
+.AppBackground img {
+    height: 100%;
+    width: 100%;
+}
+
